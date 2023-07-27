@@ -42,3 +42,4 @@ class PythoncodeCheck(App):
 if __name__ == "__main__":
     PythoncodeCheck().run()
 
+print("hi")
